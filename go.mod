@@ -1,4 +1,4 @@
-module github.com/pteich/caddy-tlsconsul
+module github.com/Gurpartap/caddy-tlsconsul
 
 go 1.14
 
